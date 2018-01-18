@@ -1,0 +1,9 @@
+E:\MPD_20172018\20171011Win_YeriyenYazi\20171011Win_YeriyenYazi\bin\Debug\20171011Win_YeriyenYazi.exe.config
+E:\MPD_20172018\20171011Win_YeriyenYazi\20171011Win_YeriyenYazi\bin\Debug\20171011Win_YeriyenYazi.exe
+E:\MPD_20172018\20171011Win_YeriyenYazi\20171011Win_YeriyenYazi\bin\Debug\20171011Win_YeriyenYazi.pdb
+E:\MPD_20172018\20171011Win_YeriyenYazi\20171011Win_YeriyenYazi\obj\Debug\20171011Win_YeriyenYazi.csprojResolveAssemblyReference.cache
+E:\MPD_20172018\20171011Win_YeriyenYazi\20171011Win_YeriyenYazi\obj\Debug\_20171011Win_YeriyenYazi.Form1.resources
+E:\MPD_20172018\20171011Win_YeriyenYazi\20171011Win_YeriyenYazi\obj\Debug\_20171011Win_YeriyenYazi.Properties.Resources.resources
+E:\MPD_20172018\20171011Win_YeriyenYazi\20171011Win_YeriyenYazi\obj\Debug\20171011Win_YeriyenYazi.csproj.GenerateResource.Cache
+E:\MPD_20172018\20171011Win_YeriyenYazi\20171011Win_YeriyenYazi\obj\Debug\20171011Win_YeriyenYazi.exe
+E:\MPD_20172018\20171011Win_YeriyenYazi\20171011Win_YeriyenYazi\obj\Debug\20171011Win_YeriyenYazi.pdb
